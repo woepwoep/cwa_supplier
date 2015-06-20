@@ -6,6 +6,7 @@
 			<field name="name">Natudis</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
+			<field name="notify_email">All Messages</field>
 			<field name="street">Daltonstraat 38</field>
 			<field name="zip">3846 BX</field>
 			<field name="city">HARDERWIJK</field>
@@ -16,6 +17,7 @@
 			<field name="name">De Nieuwe Band</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
+			<field name="notify_email">All Messages</field>
 			<field name="street">Noorderringweg 12</field>
 			<field name="zip">9363 TC</field>
 			<field name="city">Marum</field>
