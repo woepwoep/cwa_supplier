@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
 	<data noupdate="False">
+		<!-- 1002 = Natudis -->
+		<record id="1002" model="res.partner">
+			<field name="name">Natudis</field>
+		</record>
 		<!-- 1008 = De Nieuwe Band -->
 		<record id="1008" model="res.partner">
 			<field name="name">De Nieuwe Band</field>
