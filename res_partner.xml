@@ -6,6 +6,10 @@
 			<field name="name">Natudis</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
+			<field name="street">Daltonstraat 38</field>
+			<field name="zip">3846 BX</field>
+			<field name="city">HARDERWIJK</field>
+			<field name="phone">+31 (0)341 464 211</field>
 		</record>
 		<!-- 1008 = De Nieuwe Band -->
 		<record id="1008" model="res.partner">
