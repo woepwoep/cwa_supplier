@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
 	<data noupdate="False">
-		<!-- 1002 = Natudis -->
 		<record id="1002" model="res.partner">
 			<field name="name">Natudis</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 		</record>
-		<!-- 1008 = De Nieuwe Band -->
+		<record id="1007" model="res.partner">
+			<field name="name">ID Organics (BudgetBulk)</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
 		<record id="1008" model="res.partner">
 			<field name="name">De Nieuwe Band</field>
 			<field name="supplier">True</field>
@@ -16,6 +19,76 @@
 			<field name="zip">9363 TC</field>
 			<field name="city">Marum</field>
 			<field name="phone">+31594645300</field>
+		</record>
+		<record id="1012" model="res.partner">
+			<field name="name">Arkopharma</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1020" model="res.partner">
+			<field name="name">Mira International (de Moeder’s Geuren)</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1023" model="res.partner">
+			<field name="name">Floris</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1029" model="res.partner">
+			<field name="name">Bloesem Remedies</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1040" model="res.partner">
+			<field name="name">Kroon</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1042" model="res.partner">
+			<field name="name">Het Blauwe Huis</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1043" model="res.partner">
+			<field name="name">De Bolster Biologische Zaden</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1052" model="res.partner">
+			<field name="name">Dipam</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1054" model="res.partner">
+			<field name="name">Natrada</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1061" model="res.partner">
+			<field name="name">Kroon AGF</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1065" model="res.partner">
+			<field name="name">Holland Pharma</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1071" model="res.partner">
+			<field name="name">De Consequente Bio-Bakker (Ahaus)</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1119" model="res.partner">
+			<field name="name">Haffmans</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1146" model="res.partner">
+			<field name="name">Argandia</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
 		</record>
 	</data>
 </openerp>
