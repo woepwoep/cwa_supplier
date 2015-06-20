@@ -33,11 +33,7 @@
     'description': 'Importing CWA suppliers',
     'author'  : 'Ronald Wopereis',
     'website' : 'http://www.voedsel.coop',
-    'depends' : [
-    ],
-    'data' : ['res_partner.xml'
-    ],
-    'demo' : [],
+    'data' : ['res_partner.xml'],
     'installable': True,
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
