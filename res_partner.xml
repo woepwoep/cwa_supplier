@@ -2,6 +2,12 @@
 <openerp>
 	<data noupdate="False">
 		<!-- 1008 = De Nieuwe Band -->
+		<record id="1002" model="res.partner">
+			<field name="name">Natudis</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<!-- 1008 = De Nieuwe Band -->
 		<record id="1008" model="res.partner">
 			<field name="name">De Nieuwe Band</field>
 			<field name="supplier">True</field>
