@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
 	<data noupdate="False">
+		<record id="1001" model="res.partner">
+			<field name="name">Udea</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
 		<record id="1002" model="res.partner">
 			<field name="name">Natudis</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1003" model="res.partner">
+			<field name="name">Verbeek (bakkerij)</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1004" model="res.partner">
+			<field name="name">TerraSana</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1006" model="res.partner">
+			<field name="name">Van der Westen (bakkerij)</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 		</record>
@@ -20,8 +40,18 @@
 			<field name="city">Marum</field>
 			<field name="phone">+31594645300</field>
 		</record>
+		<record id="1009" model="res.partner">
+			<field name="name">Solgar</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
 		<record id="1012" model="res.partner">
 			<field name="name">Arkopharma</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1014" model="res.partner">
+			<field name="name">Weleda</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 		</record>
@@ -37,6 +67,16 @@
 		</record>
 		<record id="1029" model="res.partner">
 			<field name="name">Bloesem Remedies</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1036" model="res.partner">
+			<field name="name">De Zaaister</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1039" model="res.partner">
+			<field name="name">Odin / Estafette</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 		</record>
@@ -65,6 +105,11 @@
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 		</record>
+		<record id="1056" model="res.partner">
+			<field name="name">Wala</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
 		<record id="1061" model="res.partner">
 			<field name="name">Kroon AGF</field>
 			<field name="supplier">True</field>
@@ -80,8 +125,28 @@
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 		</record>
+		<record id="1116" model="res.partner">
+			<field name="name">Udea AGF</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1117" model="res.partner">
+			<field name="name">De Zaaister AGF</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
 		<record id="1119" model="res.partner">
 			<field name="name">Haffmans</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1127" model="res.partner">
+			<field name="name">Unipharma</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+		</record>
+		<record id="1144" model="res.partner">
+			<field name="name">Zintenz Aurora</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 		</record>
