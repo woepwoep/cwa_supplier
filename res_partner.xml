@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data noupdate="False">
+		<!-- 1008 = De Nieuwe Band -->
+		<record id="1008" model="res.partner">
+			<field name="name">De Nieuwe Band</field>
+			<field name="supplier">True</field>
+			<field name="is_company">True</field>
+			<field name="street">Noorderringweg 12</field>
+			<field name="zip">9363 TC</field>
+			<field name="city">Marum</field>
+			<field name="phone">+31594645300</field>
+		</record>
+	</data>
+</openerp>
