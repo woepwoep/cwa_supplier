@@ -14,6 +14,7 @@
 			<field name="name">Natudis</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
+			<field name="street">nieuwe adres 4040</field>
 		</record>
 		<record id="1003" model="res.partner">
 			<field name="name">Verbeek (bakkerij)</field>
