@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <openerp>
 	<data noupdate="False">
 		<record id="1001" model="res.partner">
@@ -16,23 +16,34 @@
 			<field name="is_company">True</field>
 			<field name="street">Daltonstraat 38</field>
 			<field name="zip">3846 BX</field> 
-			<field name="city">HARDERWIJK</field>
+			<field name="city">Harderwijk</field>
 			<field name="phone">+31 341 464 211</field>
 		</record>
 		<record id="1003" model="res.partner">
 			<field name="name">Verbeek (bakkerij)</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
+			<field name="street">Klavermaten 25</field>
+			<field name="zip">7472 DD</field> 
+			<field name="city">Goor</field>
+			<field name="phone">+31 0547 286770</field>
 		</record>
 		<record id="1004" model="res.partner">
 			<field name="name">TerraSana</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
+			<field name="street"/>
+			<field name="zip"/>
+			<field name="city"/>
+			<field name="phone"/>
 		</record>
 		<record id="1006" model="res.partner">
 			<field name="name">Van der Westen (bakkerij)</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
+			<field name="zip"/>
+			<field name="city"/>
+			<field name="phone"/>
 		</record>
 		<record id="1007" model="res.partner">
 			<field name="name">ID Organics (BudgetBulk)</field>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;?xml version="1.0" encoding="utf-8"?&gt;</para>
+  <para>&lt;openerp&gt;</para>
+  <para>        &lt;data noupdate="False"&gt;</para>
+  <para>                &lt;record id="1001" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Udea&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="street"&gt;Doornhoek 4040&lt;/field&gt;</para>
+  <para>                        &lt;field name="zip"&gt;5465 TD&lt;/field&gt;</para>
+  <para>                        &lt;field name="city"&gt;Veghel&lt;/field&gt;</para>
+  <para>                        &lt;field name="phone"&gt;+31 413 256700&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1002" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Natudis&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="street"&gt;Daltonstraat 38&lt;/field&gt;                        &lt;field name="zip"&gt;3846 BX&lt;/field&gt; </para>
+  <para>                        &lt;field name="city"&gt;HARDERWIJK&lt;/field&gt;</para>
+  <para>                        &lt;field name="phone"&gt;+31 341 464 211&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1003" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Verbeek (bakkerij)&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1004" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;TerraSana&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1006" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Van der Westen (bakkerij)&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1007" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;ID Organics (BudgetBulk)&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1008" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;De Nieuwe Band&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="street"&gt;Noorderringweg 12&lt;/field&gt;</para>
+  <para>                        &lt;field name="zip"&gt;9363 TC&lt;/field&gt;</para>
+  <para>                        &lt;field name="city"&gt;Marum&lt;/field&gt;</para>
+  <para>                        &lt;field name="phone"&gt;+31 594 645300&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1009" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Solgar&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1012" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Arkopharma&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1014" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Weleda&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1020" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Mira International (de Moeder’s Geuren)&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1023" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Floris&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1029" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Bloesem Remedies&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1036" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;De Zaaister&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1039" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Odin / Estafette&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1040" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Kroon&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1042" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Het Blauwe Huis&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1043" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;De Bolster Biologische Zaden&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1052" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Dipam&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1054" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Natrada&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1056" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Wala&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1061" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Kroon AGF&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1065" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Holland Pharma&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1071" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;De Consequente Bio-Bakker (Ahaus)&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1116" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Udea AGF&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1117" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;De Zaaister AGF&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1119" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Haffmans&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1127" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Unipharma&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1144" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Zintenz Aurora&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>                &lt;record id="1146" model="res.partner"&gt;</para>
+  <para>                        &lt;field name="name"&gt;Argandia&lt;/field&gt;</para>
+  <para>                        &lt;field name="supplier"&gt;True&lt;/field&gt;</para>
+  <para>                        &lt;field name="is_company"&gt;True&lt;/field&gt;</para>
+  <para>                &lt;/record&gt;</para>
+  <para>        &lt;/data&gt;</para>
+  <para>&lt;/openerp&gt;</para>
+</article>
