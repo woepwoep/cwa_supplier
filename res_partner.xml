@@ -140,10 +140,10 @@
 			<field name="name">Kroon</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
-			<field name="street"/>
-			<field name="zip"/>
-			<field name="city"/>
-			<field name="phone"/>
+			<field name="street">Jan van Galenstraat 4</field>
+			<field name="zip">1051 KL</field>
+			<field name="city">Amsterdam</field>
+			<field name="phone">+31 20 606 18 29</field>
 		</record>
 		<record id="1042" model="res.partner">
 			<field name="name">Het Blauwe Huis</field>
@@ -236,13 +236,13 @@
 			<field name="phone">+31 594 515 578</field>
 		</record>
 		<record id="1119" model="res.partner">
-			<field name="name">Haffmans</field>
+			<field name="name">Haffmans Reformproducten B.V.</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
-			<field name="street"/>
-			<field name="zip"/>
-			<field name="city"/>
-			<field name="phone"/>
+			<field name="street">Lageweg 6c</field>
+			<field name="zip">6621 BS</field>
+			<field name="city">Dreumel</field>
+			<field name="phone">+31 487 506 460</field>
 		</record>
 		<record id="1127" model="res.partner">
 			<field name="name">Unipharma</field>
@@ -257,10 +257,10 @@
 			<field name="name">Zintenz Aurora</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
-			<field name="street"/>
-			<field name="zip"/>
-			<field name="city"/>
-			<field name="phone"/>
+			<field name="street">Rijksstraatweg 544</field>
+			<field name="zip">2026 RB</field>
+			<field name="city">Haarlem</field>
+			<field name="phone"></field>
 		</record>
 		<record id="1146" model="res.partner">
 			<field name="name">Argandia</field>
