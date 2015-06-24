@@ -27,10 +27,10 @@
 ##############################################################################
 
 {
-    'name' : 'CWA Leverancier',
+    'name' : 'CWA Leveranciers',
     'version' : '1.0',
     'category': 'Point of Sale',
-    'description': 'Importing CWA supplier',
+    'description': 'Importing CWA suppliers',
     'author'  : 'Ronald Wopereis',
     'website' : 'http://www.voedsel.coop',
     'depends' : ['mail'],
