@@ -360,7 +360,6 @@
 			<field name="city">Capelle a/d IJssel</field>
 			<field name="country_id" ref="base.nl" />
 			<field name="phone">+31 10 236 24 84</field>
-			<field name="email">info@argandia.nl</field>
 			<field name="website">http://www.argandia.nl/</field>
 		</record>
 	</data>
