@@ -26,7 +26,7 @@
 			<field name="website">http://www.natudis.nl/</field>
 		</record>
 		<record id="1003" model="res.partner">
-			<field name="name">Verbeek (bakkerij)</field>
+			<field name="name">Verbeek</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 			<field name="customer">False</field>
@@ -50,7 +50,7 @@
 			<field name="website">http://www.terrasana.nl/</field>
 		</record>
 		<record id="1006" model="res.partner">
-			<field name="name">Zonnemaire / van der Westen (bakkerij)</field>
+			<field name="name">Zonnemaire / Van der Westen</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 			<field name="customer">False</field>
@@ -94,7 +94,7 @@
 			<field name="zip">2003 EK</field>
 			<field name="city">Haarlem</field>
 			<field name="country_id" ref="base.nl" />
-			<field name="phone">+31 23 - 534 45 22</field>
+			<field name="phone">+31 23 534 45 22</field>
 			<field name="website">http://www.solgar.nl/</field>
 		</record>
 		<record id="1012" model="res.partner">
