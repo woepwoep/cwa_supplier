@@ -303,7 +303,7 @@
 			<field name="website">http://www.udea.nl/</field>
 		</record>
 		<record id="1117" model="res.partner">
-			<field name="name">De Zaaister AGF</field>
+			<field name="name">De Zaai-Ster AGF</field>
 			<field name="supplier">True</field>
 			<field name="is_company">True</field>
 			<field name="customer">False</field>
