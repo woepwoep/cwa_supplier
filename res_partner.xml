@@ -3,9 +3,9 @@
 	<data noupdate="False">
 		<record id="1001" model="res.partner">
 			<field name="name">Udea</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Doornhoek 4040</field>
 			<field name="zip">5465 TD</field>
 			<field name="city">Veghel</field>
@@ -15,9 +15,9 @@
 		</record>
 		<record id="1002" model="res.partner">
 			<field name="name">Natudis</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Daltonstraat 38</field>
 			<field name="zip">3846 BX</field> 
 			<field name="city">Harderwijk</field>
@@ -27,9 +27,9 @@
 		</record>
 		<record id="1003" model="res.partner">
 			<field name="name">Verbeek</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Saturnusweg 1</field>
 			<field name="zip">6971 GX</field> 
 			<field name="city">Brummen</field>
@@ -39,9 +39,9 @@
 		</record>
 		<record id="1004" model="res.partner">
 			<field name="name">TerraSana</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Waaier 10</field>
 			<field name="zip">2451 VV </field>
 			<field name="city">Leimuiden</field>
@@ -51,9 +51,9 @@
 		</record>
 		<record id="1006" model="res.partner">
 			<field name="name">Zonnemaire / Van der Westen</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Dwarsweg 12</field>
 			<field name="zip">5165 NM</field>
 			<field name="city">Waspik</field>
@@ -63,9 +63,9 @@
 		</record>
 		<record id="1007" model="res.partner">
 			<field name="name">ID Organics (BudgetBulk)</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Ronde Tocht 20</field>
 			<field name="zip">1507 CC</field>
 			<field name="city">Zaandam</field>
@@ -75,9 +75,9 @@
 		</record>
 		<record id="1008" model="res.partner">
 			<field name="name">De Nieuwe Band</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Noorderringweg 12</field>
 			<field name="zip">9363 TC</field>
 			<field name="city">Marum</field>
@@ -87,9 +87,9 @@
 		</record>
 		<record id="1009" model="res.partner">
 			<field name="name">Solgar</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Postbus 4444 </field>
 			<field name="zip">2003 EK</field>
 			<field name="city">Haarlem</field>
@@ -99,9 +99,9 @@
 		</record>
 		<record id="1012" model="res.partner">
 			<field name="name">Arkopharma</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Postbus 10255</field>
 			<field name="zip">1301 AG</field>
 			<field name="city">Almere</field>
@@ -111,9 +111,9 @@
 		</record>
 		<record id="1014" model="res.partner">
 			<field name="name">Weleda</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Platinastraat 161 </field>
 			<field name="zip">2700 AS</field>
 			<field name="city">Zoetermeer</field>
@@ -123,9 +123,9 @@
 		</record>
 		<record id="1020" model="res.partner">
 			<field name="name">Mira International (de Moeder’s Geuren)</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Edvard Munchweg 27</field>
 			<field name="zip">1328 MA</field>
 			<field name="city">Almere</field>
@@ -135,9 +135,9 @@
 		</record>
 		<record id="1023" model="res.partner">
 			<field name="name">Floris Recycled Stationary</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Kerkstraat 32A</field>
 			<field name="zip">5253 AP</field>
 			<field name="city">Nieuwkuijk</field>
@@ -147,9 +147,9 @@
 		</record>
 		<record id="1029" model="res.partner">
 			<field name="name">Bloesem Remedies</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Sint Jansstraat 5 </field>
 			<field name="zip">5964 AA</field>
 			<field name="city">Meterik</field>
@@ -159,9 +159,9 @@
 		</record>
 		<record id="1036" model="res.partner">
 			<field name="name">De Zaai-Ster</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Stevinstraat 1</field>
 			<field name="zip">9351 VK</field>
 			<field name="city">Leek</field>
@@ -171,9 +171,9 @@
 		</record>
 		<record id="1039" model="res.partner">
 			<field name="name">Odin / Estafette</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">De Panoven 1-3</field>
 			<field name="zip">4191 GV </field>
 			<field name="city">Geldermalsen</field>
@@ -183,9 +183,9 @@
 		</record>
 		<record id="1040" model="res.partner">
 			<field name="name">Kroon</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Jan van Galenstraat 4</field>
 			<field name="zip">1051 KL</field>
 			<field name="city">Amsterdam</field>
@@ -195,9 +195,9 @@
 		</record>
 		<record id="1042" model="res.partner">
 			<field name="name">Het Blauwe Huis</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Buitenhuizerweg 19</field>
 			<field name="zip">7961 LX</field>
 			<field name="city">Ruinerwold</field>
@@ -208,9 +208,9 @@
 		</record>
 		<record id="1043" model="res.partner">
 			<field name="name">De Bolster Biologische Zaden</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Oude Oenerweg 13</field>
 			<field name="zip">8161 PL</field>
 			<field name="city">Epe</field>
@@ -220,9 +220,9 @@
 		</record>
 		<record id="1052" model="res.partner">
 			<field name="name">Dipam</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">van Rijckevorselstraat 4-a</field>
 			<field name="zip">3972 ER</field>
 			<field name="city">Driebergen</field>
@@ -232,9 +232,9 @@
 		</record>
 		<record id="1054" model="res.partner">
 			<field name="name">Natrada</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Geert Grootestraat 1</field>
 			<field name="zip">7411 GS </field>
 			<field name="city">Deventer</field>
@@ -244,9 +244,9 @@
 		</record>
 		<record id="1056" model="res.partner">
 			<field name="name">Wala</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street"/>
 			<field name="zip"/>
 			<field name="city"/>
@@ -256,9 +256,9 @@
 		</record>
 		<record id="1061" model="res.partner">
 			<field name="name">Kroon AGF</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Jan van Galenstraat 4</field>
 			<field name="zip">1051 KL</field>
 			<field name="city">Amsterdam</field>
@@ -268,9 +268,9 @@
 		</record>
 		<record id="1065" model="res.partner">
 			<field name="name">Holland Pharma</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Bosberg 41</field>
 			<field name="zip">7271 LE</field>
 			<field name="city">Borculo</field>
@@ -280,9 +280,9 @@
 		</record>
 		<record id="1071" model="res.partner">
 			<field name="name">De Consequente Bio-Bakker (Ahaus)</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Fleehook 53</field>
 			<field name="zip"></field>
 			<field name="city">Ahaus</field>
@@ -292,9 +292,9 @@
 		</record>
 		<record id="1116" model="res.partner">
 			<field name="name">Udea AGF</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Doornhoek 4040</field>
 			<field name="zip">5465 TD</field>
 			<field name="city">Veghel</field>
@@ -304,9 +304,9 @@
 		</record>
 		<record id="1117" model="res.partner">
 			<field name="name">De Zaai-Ster AGF</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Stevinstraat 1</field>
 			<field name="zip">9351 VK</field>
 			<field name="city">Leek</field>
@@ -316,9 +316,9 @@
 		</record>
 		<record id="1119" model="res.partner">
 			<field name="name">Haffmans Reformproducten B.V.</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Lageweg 6c</field>
 			<field name="zip">6621 BS</field>
 			<field name="city">Dreumel</field>
@@ -328,9 +328,9 @@
 		</record>
 		<record id="1127" model="res.partner">
 			<field name="name">Unipharma</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Ramsburgerweg 2-12</field>
 			<field name="zip">4332 SG</field>
 			<field name="city">Middelburg</field>
@@ -340,9 +340,9 @@
 		</record>
 		<record id="1144" model="res.partner">
 			<field name="name">Zintenz Aurora</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Mollerusweg 90</field>
 			<field name="zip">2031 BZ</field>
 			<field name="city">Haarlem</field>
@@ -352,9 +352,9 @@
 		</record>
 		<record id="1146" model="res.partner">
 			<field name="name">Argandia</field>
-			<field name="supplier">True</field>
-			<field name="customer">False</field>
-			<field name="is_company">True</field>
+			<field name="supplier" eval="True" />
+			<field name="customer" eval="False" />
+			<field name="is_company" eval="True" />
 			<field name="street">Cornusbaan 69 A</field>
 			<field name="zip">2908 KB</field>
 			<field name="city">Capelle a/d IJssel</field>
